@@ -37,7 +37,7 @@ You could adapt it to your own needs.
 ## :checkered_flag: Testing
 Illustration
 
-We alse provide the performance of our model. The illustration videos are stored in [OLLIE-offline-to-online-imitation-learning/performance](OLLIE-offline-to-online-imitation-learning/tree/main/performance).
+We alse provide the performance of our model. The illustration videos are stored in [ILID-offline-imitation-learning/performance](https://github.com/HansenHua/ILID-offline-imitation-learning/tree/main/performance).
 
 ## :e-mail: Contact
 
